@@ -51,7 +51,7 @@ Material:
     - _RippleScale: 0.004
     m_Colors:
     - _Color: {r: 0.44716978, g: 0.69254375, b: 1, a: 0}
-    - _RipplesCenter: {r: 4.37, g: 3.19, b: -10.74, a: 3}
+    - _RipplesCenter: {r: 4.37, g: 2.88, b: -10.74, a: 1}
   m_BuildTextureStacks: []
 --- !u!114 &2487837202619302038
 MonoBehaviour:
